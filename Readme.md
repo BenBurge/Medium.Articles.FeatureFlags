@@ -4,7 +4,7 @@ This project was created to show case how to use [ the Official .NET Feature Man
 
 This project doesn't go into the TimeWidow or Percentage features that the Feature Management library is capable of. However it does provide a good starting point.
 
-Check our the official article at 
+Check our the official article at https://benburgecode.medium.com/net-feature-management-powered-by-a-rest-api-ce4a5613becd
 
 ## The Setup
 * Using .NET 7
